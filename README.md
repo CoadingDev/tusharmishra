@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tushar Mishra</h1>
-<h3 align="center">🎓 M.C.A ’26 | AIML • Dara Analyst • UI/UX  </h3>
+<h3 align="center">🎓 M.C.A ’26 | AIML • Data Analyst • UI/UX  </h3>
 
 ---
 
 
 - 📊 Building 
-- 💻 Exploring: **Swift**, **ML frameworks**, and scalable UI/UX workflows.
+- 💻 Exploring: **Flask**, **Python frameworks**, and scalable UI/UX workflows.
 - 🧠 Interests: Building meaningful user experiences, optimizing real-world logic through AI/ML, and designing calm, intuitive interfaces.
 - 🌐 Portfolio: [tusharmishra.me]()
 - 📬 Reach me at: **tusharmishr3@gmail.com**
