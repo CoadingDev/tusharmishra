@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Mishra</h1>
-<h3 align="center">🎓 M.C.A ’26 | AIML • Data Analyst • UI/UX  </h3>
+<h3 align="center">🎓 M.C.A ’26 | Full Stack • Data Analyst • UI/UX  </h3>
 
 ---
 
